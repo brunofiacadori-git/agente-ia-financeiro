@@ -52,6 +52,14 @@ Dados do Cliente:
 - 03/11: Streaming - R$ 55
 - 05/11: Transporte - R$ 120
 - 08/11: Restaurante - R$ 180
+
+Sugestão de investimento:
+    "nome": "LCI/LCA",
+    "categoria": "renda_fixa",
+    "risco": "baixo",
+    "rentabilidade": "95% do CDI",
+    "aporte_minimo": 1000.00,
+    "indicado_para": "Quem pode esperar 90 dias (isento de IR)"
 ...
 ```
 
